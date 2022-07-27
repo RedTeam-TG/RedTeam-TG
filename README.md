@@ -21,6 +21,6 @@
 
 <p align="center">
 
-<a href="https://twitter.com/fr334aks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="RedTeam-TG" height="20" width="20" /></a>
+<a href="https://twitter.com/RedTeam-TG" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="RedTeam-TG" height="20" width="20" /></a>
 
 </p>
